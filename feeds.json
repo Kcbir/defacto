@@ -1,0 +1,55 @@
+{
+  "indian national news": [
+    { "source": "The Times of India", "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms" },
+    { "source": "The Indian Express - Explained", "url": "https://indianexpress.com/section/explained/feed/" },
+    { "source": "NDTV - Top Stories", "url": "https://feeds.feedburner.com/ndtvnews-top-stories" }
+  ],
+  "indian business and tech": [
+    { "source": "The Economic Times - Top Stories", "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms" },
+    { "source": "ETTech - Top Stories", "url": "https://tech.economictimes.indiatimes.com/rss/top-stories" },
+    { "source": "FactorDaily", "url": "https://factordaily.com/feed/" },
+    { "source": "Livemint - Technology", "url": "https://www.livemint.com/rss/technology" }
+  ],
+  "indian geopolitics and defense": [
+    { "source": "Gateway House", "url": "https://www.gatewayhouse.in/feed/" },
+    { "source": "The Print - Security", "url": "https://theprint.in/category/security/feed/" }
+  ],
+  "global general news": [
+    { "source": "BBC News - World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "source": "The Guardian - World", "url": "https://www.theguardian.com/world/rss" },
+    { "source": "NPR News", "url": "https://feeds.npr.org/1001/rss.xml" },
+    { "source": "Al Jazeera English", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "source": "CNN - Top Stories", "url": "http://rss.cnn.com/rss/edition.rss" },
+    { "source": "The New York Times - World", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" }
+  ],
+  "global business and finance": [
+    { "source": "Bloomberg - Markets", "url": "https://feeds.bloomberg.com/markets/news.rss" },
+    { "source": "The Economist - Business & Finance", "url": "https://www.economist.com/finance-and-economics/rss.xml" },
+    { "source": "Financial Times - World", "url": "https://www.ft.com/world?format=rss" },
+    { "source": "MarketWatch - Top Stories", "url": "http://feeds.marketwatch.com/marketwatch/topstories/" },
+    { "source": "Yahoo Finance", "url": "https://finance.yahoo.com/rss/" }
+  ],
+  "global technology": [
+    { "source": "TechCrunch", "url": "https://techcrunch.com/feed/" },
+    { "source": "Hacker News", "url": "https://news.ycombinator.com/rss" },
+    { "source": "WIRED - Business", "url": "https://www.wired.com/feed/category/business/latest/rss" }
+  ],
+  "global geopolitics and defense": [
+    { "source": "War on the Rocks", "url": "https://warontherocks.com/feed/" },
+    { "source": "The Diplomat", "url": "https://thediplomat.com/feed/" }
+  ],
+  "global perspectives and opinion": [
+    { "source": "The New York Times - Opinion", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml" },
+    { "source": "The Guardian - Opinion", "url": "https://www.theguardian.com/uk/commentisfree/rss" }
+  ],
+  "science and environment": [
+    { "source": "Science Magazine", "url": "https://www.science.org/rss/news_current.xml" },
+    { "source": "Quanta Magazine", "url": "https://api.quantamagazine.org/feed/" }
+  ],
+  "bloomberg_collection": [
+    { "source": "Bloomberg - Politics", "url": "https://feeds.bloomberg.com/politics/news.rss" },
+    { "source": "Bloomberg - Businessweek", "url": "https://feeds.bloomberg.com/businessweek/news.rss" },
+    { "source": "Bloomberg - Wealth", "url": "https://feeds.bloomberg.com/wealth/news.rss" },
+    { "source": "Bloomberg - Crypto", "url": "https://feeds.bloomberg.com/crypto/news.rss" }
+  ]
+}
